@@ -21,3 +21,5 @@ My aim is to further enhance my skills in Ruby and Ruby on Rails, while also acq
   - I love the challenge of building <em>websites</em> and writting the HTML & CSS code
   - Retro gaming and game collecting
   - Speed Cubing
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
