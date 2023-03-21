@@ -22,4 +22,4 @@ My aim is to further enhance my skills in Ruby and Ruby on Rails, while also acq
   - Retro gaming and game collecting
   - Speed Cubing
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick-ODonoghue&count_private=true)
