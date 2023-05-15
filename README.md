@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nick</h1>
-<h2 align="center">Full-Stack Web Developer</h2>
+<h2 align="center">Junior Full-Stack Web Developer</h2>
 
 <br>
 
