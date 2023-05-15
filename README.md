@@ -7,7 +7,9 @@
 
 I've spent the last 5 years in the IT industry, most recently as a senior analyst for one of the UK's largest retail brands. While I enjoyed my work, I realized that I wanted to specialize more in my career. With my passion for all things tech and the web, I decided that web development was the perfect fit for me.
 
-After taking a 9-week bootcamp at Le Wagon, I'm excited to say that I now have the skills to create full-stack web applications! Over the past few months, I've been learning HTML, CSS, and JS, Ruby and Ruby on Rails and I've loved every minute of it. I have a passion for learning, whether it's something familiar or completely new.
+I'm now a junior full-stack web developer experienced in HTML, CSS, JavaScript, Node.js, Ruby, and Ruby on Rails. I believe in mobile-first responsive development and have a keen eye for creating seamless user experiences.
+
+Currently seeking an opportunity to join a dynamic team where I can contribute my skills, collaborate with fellow developers, and continue growing in the exciting world of web development.
 
 <br>
 
