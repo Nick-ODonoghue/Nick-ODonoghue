@@ -11,8 +11,6 @@ After taking a 9-week bootcamp at Le Wagon, I'm excited to say that I now have t
 
 In just 3 months, I've come a long way, from someone who was unsure how to structure a site's HTML semantically to someone who is fully confident in reproducing any design put in front of me. I've fallen in love with the power of CSS and how it can bring any web page to life, limited only by your imagination.
 
-My aim is to further enhance my skills in Ruby and Ruby on Rails, while also acquiring proficiency in React. I aspire to become a proficient web-app developer, capable of writing my own code for site functionality. Once I'm comfortable with Ruby and Rails, I plan to expand my skill set by learning ReactJS and building sites with its libraries.
-
 <br>
 
 ## Interests
