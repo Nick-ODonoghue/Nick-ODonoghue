@@ -9,8 +9,6 @@ I've spent the last 5 years in the IT industry, most recently as a senior analys
 
 After taking a 9-week bootcamp at Le Wagon, I'm excited to say that I now have the skills to create full-stack web applications! Over the past few months, I've been learning HTML, CSS, and JS, Ruby and Ruby on Rails and I've loved every minute of it. I have a passion for learning, whether it's something familiar or completely new.
 
-In just 3 months, I've come a long way, from someone who was unsure how to structure a site's HTML semantically to someone who is fully confident in reproducing any design put in front of me. I've fallen in love with the power of CSS and how it can bring any web page to life, limited only by your imagination.
-
 <br>
 
 ## Interests
