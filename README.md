@@ -16,7 +16,7 @@ Currently seeking an opportunity to join a dynamic team where I can contribute m
 ## Interests
 
 - 👀 I'm interested in anything techy
-  - I love the challenge of building <em>websites</em> and writting the HTML & CSS code
+  - I love the challenge of building <em>websites</em> and bringing ideas to life
   - Retro gaming and game collecting
   - Speed Cubing
 
